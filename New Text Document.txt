@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-push
-
-pull
-=======
-xin chao
->>>>>>> 8334b7380d23252000dc36dbdf9f8216189081e7
+noi dung moi
